@@ -1,7 +1,7 @@
 
 // 1. CREACIÓN Y SELECCIÓN DE BASE DE DATOS
 
-use fitzone_db;
+use('fitzone_db')
 
 // Limpieza previa de colecciones
 db.miembros.drop();
