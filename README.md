@@ -5,7 +5,7 @@ Este proyecto consiste en la creación de una **base de datos NoSQL con MongoDB*
 
 
  👤 Miembros
-
+```json
 {
   "_id": "60d5ecb8b5c9c22b1c8e0201",
   "nombre": "Sonia Araya",
@@ -15,7 +15,7 @@ Este proyecto consiste en la creación de una **base de datos NoSQL con MongoDB*
 }
 
  🏋️ Entrenadores
-
+```json
 {
   "_id": "60d5ecb8b5c9c22b1c8e0101",
   "nombre": "Carlos Ruiz",
@@ -24,7 +24,7 @@ Este proyecto consiste en la creación de una **base de datos NoSQL con MongoDB*
 }
 
  🧘 Clases
-
+```json
 {
   "_id": "60d5ecb8b5c9c22b1c8e0301",
   "nombre": "CrossFit Matutino",
@@ -35,7 +35,7 @@ Este proyecto consiste en la creación de una **base de datos NoSQL con MongoDB*
 }
 
 🎟️ Reservas
-
+```json
 {
   "_id": "60d5ecb8b5c9c22b1c8e0401",
   "miembro_id": "60d5ecb8b5c9c22b1c8e0201",
@@ -51,7 +51,7 @@ Este proyecto consiste en la creación de una **base de datos NoSQL con MongoDB*
 }
 
 👥 Integrantes del Proyecto
-
+```json
 Greivin González Trejos
 
 Joselyn Solano Monge
