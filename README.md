@@ -13,6 +13,7 @@ Este proyecto consiste en la creación de una **base de datos NoSQL con MongoDB*
   "plan": "VIP",
   "activo": true
 }
+```
 
  🏋️ Entrenadores
 ```json
@@ -22,6 +23,7 @@ Este proyecto consiste en la creación de una **base de datos NoSQL con MongoDB*
   "especialidad": "CrossFit",
   "activo": true
 }
+```
 
  🧘 Clases
 ```json
@@ -33,6 +35,7 @@ Este proyecto consiste en la creación de una **base de datos NoSQL con MongoDB*
   "cupo_maximo": 15,
   "cupo_actual": 10
 }
+```
 
 🎟️ Reservas
 ```json
@@ -49,10 +52,10 @@ Este proyecto consiste en la creación de una **base de datos NoSQL con MongoDB*
   ],
   "monto_total": 22.00
 }
-
+```
+---
 👥 Integrantes del Proyecto
-```json
-Greivin González Trejos
 
-Joselyn Solano Monge
+-Greivin González Trejos
+-Joselyn Solano Monge
 
