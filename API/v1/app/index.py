@@ -56,7 +56,7 @@ def token_requerido(f):
 # Ruta raíz (también protegida con token)
 # ---------------------------------------------------------------------------
 @index_bp.get("/")
-@index_bp.get("/api/v1")
+@index_bp.get("/api/v1", strict_slashes=False)  # acepta /api/v1 y /api/v1/
 @token_requerido
 def index():
     return jsonify({
