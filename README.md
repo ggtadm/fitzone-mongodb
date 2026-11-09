@@ -154,7 +154,7 @@ Si el token falta o es incorrecto, la API responde:
 { "error": "Token inválido" }
 ```
 
-## 📌 Convenciones
+## 📌 Especificaciones Generales
 
 - URL base: `http://127.0.0.1:5000/api/v1`
 - Cuerpo de las peticiones y respuestas en **JSON** (`Content-Type: application/json`).
@@ -519,7 +519,7 @@ Endpoints de solo lectura basados en las consultas de agregación de [database/s
 ]
 ```
 
-### Clases (prendas) reservadas con su cupo (stock) restante
+### Clases reservadas con su cupo (stock) restante
 **Método:** `GET`
 **URL:** `http://127.0.0.1:5000/api/v1/reportes/clases-cupo-restante`
 
@@ -534,7 +534,7 @@ Endpoints de solo lectura basados en las consultas de agregación de [database/s
 ]
 ```
 
-### Top 5 entrenadores (marcas) con más pases vendidos
+### Top 5 entrenadores con más pases vendidos
 **Método:** `GET`
 **URL:** `http://127.0.0.1:5000/api/v1/reportes/top-entrenadores`
 
