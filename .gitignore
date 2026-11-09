@@ -1,0 +1,8 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Entorno de Postman con el token real
+API/FitZone.postman_environment.json
